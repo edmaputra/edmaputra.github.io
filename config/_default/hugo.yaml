@@ -1,0 +1,32 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "edmaputra"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  title: "edmaputra"
+  description: "edmaputra personal blog/site"
+  showReadingTime: true
+  showShareButtons: false
+  showBreadCrumbs: false
+  showWordCount: true
+
+# socialIcons:
+#   - name: twitter
+#     url: "https://twitter.com/edmaputra"
+#   - name: github
+#     url: "https://github.com/edmaputra"
+#   - name: linkedin
+#     url: "https://github.com/edmaputra"
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
