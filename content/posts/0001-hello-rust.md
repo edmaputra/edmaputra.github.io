@@ -1,6 +1,6 @@
 ---
 date: '2025-09-12T17:15:24+07:00'
-draft: true
+draft: false
 title: 'Hello Rust !'
 showToc: true
 ---
