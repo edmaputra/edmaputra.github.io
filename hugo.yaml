@@ -1,0 +1,14 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: edmaputra's Blog
+theme: PaperMod
+
+params:
+  defaultTheme: "dark"
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
