@@ -4,7 +4,10 @@ draft: false
 title: 'Hello Rust !'
 showToc: true
 ---
-In this page, I want to share about the progress on how I learn a new programming language called **Rust**.
+As I mention on my previous post, this blog will contains the documentation or progress of my learning process. Right now, the **Rust programming language** is attracting my attention, so I want to start a project with it. 
+
+The posts would be posted continuously, according on how far the project would be grow. I intent to use the posts as my design right before I implement them to code.
+
 > Follow the installation in this link: [Rust Official Page](https://www.rust-lang.org/)
 
 # Code Repository
