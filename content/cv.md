@@ -43,7 +43,7 @@ Experienced and reliable software engineer with over 5 years of hands-on experie
 ## Contact Information
 
 - **Email**: [bangun.edmasaputra@gmail.com](mailto:bangun.edmasaputra@gmail.com)
-- **GitHub**: [github.com/edmaputra](https://github.com/edmaputra)
+- **GitHub**: {{< github-link url="https://github.com/edmaputra" text="github.com/edmaputra" class="" >}}
 - **LinkedIn**: [linkedin.com/in/edmaputra](https://www.linkedin.com/in/edmaputra/)
 - **Website**: [edmaputra.github.io](https://edmaputra.github.io)
 - **Location**: Indonesia
@@ -124,7 +124,7 @@ Experienced and reliable software engineer with over 5 years of hands-on experie
       <li>Automated deployment using GitHub Actions</li>
       <li>Writing technical articles about programming and learning experiences</li>
     </ul>
-    <a href="https://github.com/edmaputra/edmaputra.github.io" target="_blank" class="project-link">Github</a>
+    {{< github-link url="https://github.com/edmaputra/edmaputra.github.io" icon-size="32" >}}
   </div>
 </div>
 
