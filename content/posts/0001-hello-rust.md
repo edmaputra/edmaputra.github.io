@@ -13,9 +13,9 @@ The posts would be posted continuously, according on how far the project would b
 # Code Repository
 I think one of the best way to learn is create a project with Rust. So, I will use this repository to store the code and history of it.
 
-[Nukar - Github Repository](https://github.com/edmaputra/nukar)
+[Ilm - Github Repository](https://github.com/edmaputra/ilm)
 
-Let's name the application with **Nukar**. I will explain what does it mean on the different opportunity, if any. With this project, we are going to make **Point-Of-Sales (POS)** system. 
+With this project, we are going to make **Project Management** system, and it's trying to do what Jira can do. And if possible, we are going to improve and some special features to it.
 
 # Initialize the Project
 I will clone it in my machine and init the project for Rust by execute this command:
@@ -37,7 +37,7 @@ Let's go to the `cargo.toml`. In the first step, we are going to:
 The `cargo.toml` will look like this:
 ```toml
 [package]
-name = "nukar"
+name = "ilm"
 version = "0.1.0"
 edition = "2024"
 
