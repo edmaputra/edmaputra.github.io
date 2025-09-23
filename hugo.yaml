@@ -1,13 +1,38 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: edmaputra's Blog
+title: edmaputra
 theme: PaperMod
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 params:
   defaultTheme: "dark"
+  profileMode:
+    enabled: true
+    title: "Bangun Edmasaputra"
+    subtitle: "Software Engineer | Backend | Java | Rust (in Progress)"
+    imageUrl: "/files/image/me.jpg"
+    buttons:
+      - name: CV
+        url: "/cv/"
+      - name: Posts
+        url: "/posts/"
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/edmaputra"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/edmaputra/"
 
 menu:
   main:
+    - identifier: cv
+      name: CV
+      url: /cv/
+      weight: 10
     - identifier: posts
       name: Posts
       url: /posts/
